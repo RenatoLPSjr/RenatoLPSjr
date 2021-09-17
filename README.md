@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenatoLPSjr
-- 👀 I’m interested in Leraning to program Java
+- 👀 I’m interested in Leraning to program
 - 🌱 I’m currently learning Git and Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/renato-lopes-a8754521b/

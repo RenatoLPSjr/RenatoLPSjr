@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @RenatoLPSjr
-- 👀 I’m interested in Leraning to program
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/renato-lopes-a8754521b/
+My name is Renato Lopes, I'm a systems analysis student, I'm currently learning javascript for Back End.
 
 <!---
 RenatoLPSjr/RenatoLPSjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

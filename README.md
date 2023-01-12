@@ -1,12 +1,6 @@
 My name is Renato Lopes, 
 I'm a Systems Analysis student, I'm currently learning javascript for Back End.
 
-<div>
-<img height="180ve" src="https://github-readme-stats.vercel.app/api?username=RenatoLPSjr&show_icons=true" >
-
-<img height="180ve" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoLPSjr&layout=compact">
-</div>
-
 
 
 

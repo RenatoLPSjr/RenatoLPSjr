@@ -1,5 +1,5 @@
 My name is Renato Lopes, 
-I'm a Systems Analysis student, I'm currently learning javascript for Back End.
+I'm a Systems Analysis student, I'm currently learning Back End.
 
 
 
